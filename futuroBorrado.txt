@@ -1,0 +1,4 @@
+Archivo que se borrará pronto
+-----------------------------
+
+Este archivo se borrará desde la terminal
