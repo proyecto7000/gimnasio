@@ -1,0 +1,19 @@
+Textos de Prueba
+
+Lista de Ingredientes
+---------------------
+Pan
+Azucar
+Leche
+Huevos
+Harina
+Mantequilla
+
+
+Lista de Utiles escolares
+-------------------------
+cuaderno
+plumon
+borrador
+goma
+regla
